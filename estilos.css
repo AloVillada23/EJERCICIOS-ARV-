@@ -1,0 +1,15 @@
+/* Hoja de estilos para los ejercicios */
+
+body {
+    background-color:rgb(208, 245, 149);
+}
+.principal {
+    background-color: rgba(126, 226, 240, 0.8);
+    margin-top: 20px;
+}
+#ultimas a {
+    font-size: 14px;
+    color:rgb(194, 143, 241);
+    font-weight: normal;
+    margin-bottom: 10px;
+}
